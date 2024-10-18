@@ -31,13 +31,5 @@
     "test": "tree-sitter test && node --test",
     "parse": "tree-sitter parse",
     "test-windows": "tree-sitter test"
-  },
-  "tree-sitter": [
-    {
-      "scope": "source.openscad",
-      "file-types": [
-        "scad"
-      ]
-    }
-  ]
+  }
 }
