@@ -14,13 +14,13 @@ classifiers = [
   "Topic :: Text Processing :: Linguistic",
   "Typing :: Typed",
 ]
-authors = [{ name = "Ian Boll", email = "mainbollian@gmail.com" }]
+authors = [{ name = "Jared Chapman", email = "jaredpchapman@gmail.com" }]
 requires-python = ">=3.9"
 license.text = "MIT"
 readme = "README.md"
 
 [project.urls]
-Homepage = "https://github.com/bollian/tree-sitter-openscad"
+Homepage = "https://github.com/linuxfreak003/tree-sitter-openscad"
 
 [project.optional-dependencies]
 core = ["tree-sitter~=0.22"]

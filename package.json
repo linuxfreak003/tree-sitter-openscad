@@ -8,13 +8,12 @@
     "lexer",
     "openscad"
   ],
-  "author": "Ian Boll <mainbollian@gmail.com>",
+  "author": "Jared Chapman <jaredpchapman@gmail.com>",
   "contributors": [
-    "amaanq (Amaan Qureshi) <amaanq12@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bollian/tree-sitter-openscad/issues"
+    "url": "https://github.com/linuxfreak003/tree-sitter-openscad/issues"
   },
   "dependencies": {
     "nan": "^2.14.2"
@@ -25,7 +24,7 @@
     "tree-sitter-cli": "^0.20",
     "tree-sitter": "^0.20"
   },
-  "repository": "https://github.com/bollian/tree-sitter-openscad",
+  "repository": "https://github.com/linuxfreak003/tree-sitter-openscad",
   "scripts": {
     "build": "tree-sitter generate && node-gyp build",
     "test": "tree-sitter test && node --test",

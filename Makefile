@@ -3,7 +3,7 @@ $(error Windows is not supported)
 endif
 
 LANGUAGE_NAME := tree-sitter-openscad
-HOMEPAGE_URL := https://github.com/bollian/tree-sitter-openscad
+HOMEPAGE_URL := https://github.com/linuxfreak003/tree-sitter-openscad
 VERSION := 0.5.1
 
 # repository
